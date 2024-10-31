@@ -103,4 +103,3 @@ if clicked:
             st.write(result)
         except KeyError as e:
             st.error(f"Key error: {e}")
-
