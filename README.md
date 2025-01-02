@@ -17,7 +17,7 @@ Python: Core logic
 Setup : -
 
 Clone the repo:
-git clone https://github.com/Soham-1304/FutureFunds.git
+git clone https://github.com/Soham-1304/ai-finance.git
 cd FutureFunds
 
 Install dependencies:
