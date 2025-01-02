@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 Run the app:
 streamlit run app.py
+
 Contributing
 
 Feel free to fork and submit pull requests.
